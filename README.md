@@ -4,6 +4,6 @@
 
 - 🔭 I’m currently working on the End to End ML project 
 - 🌱 I’m currently learning Cloud computing 
-- 👓 I’m looking to collaborate on funded research projects on AI, ML and Antenna 
+- 👓 I’m looking to collaborate on research projects on AI, ML and Antenna 
 
 
