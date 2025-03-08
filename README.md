@@ -7,6 +7,10 @@
 - 👓 I’m looking to collaborate on research projects on AI, ML and Antenna
 
 - 🤺 Skill listing
-- [![My Skills](https://skillicons.dev/icons?i=html,css,git,vim,aws,py,c,cpp,cs,django,flask,github,matlab,mysql,postgres,tensorflow)](https://skillicons.dev) 
+- <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,git,vim,aws,py,c,cpp,cs,django,flask,github,matlab,mysql,postgres,tensorflow" />
+  </a>
+</p>
 
 
