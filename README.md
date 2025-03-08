@@ -11,6 +11,6 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,git,vim,aws,py,c,cpp,cs,django,flask,github,matlab,mysql,postgres,tensorflow" />
   </a>
-</p>
+</p> 
 
 
