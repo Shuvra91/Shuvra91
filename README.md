@@ -3,7 +3,7 @@
 
 
 - ⚙️ I’m currently working on the End to End ML project 
-- 🌱 I’m currently learning Cloud computing projects 
+- 🌱 I’m currently learning Cloud computing projects, DevOps and CI/CD  pipelines 
 - 👓 I’m looking to collaborate on research projects on AI, ML and Antenna
 
 
